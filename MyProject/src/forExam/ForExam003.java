@@ -23,7 +23,7 @@ public class ForExam003 {
 		
 		for(int i = 1; i <=100; i++) {
 			sum += i;
-			System.out.println("지금까지의 합계 : " + sum);
+			//System.out.println("지금까지의 합계 : " + sum);
 		}
 		System.out.println(sum);
 

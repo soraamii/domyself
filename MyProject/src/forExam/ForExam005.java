@@ -26,16 +26,7 @@ public class ForExam005 {
 //			System.out.println();
 //		}
 		
-		//7. for문을 사용하여 아래와 같은 별 모양을 출력하시오.
-		
-		for(int i = 0; i < 5; i++) {
-			for(int j = 0; j >= i - 1; j++) {
-				System.out.print(" ");
-			}
-			for(int k = 5; k > i; k-- )
-				System.out.print("*");
-		}System.out.println();
-
 	}
-
 }
+
+
